@@ -1,0 +1,9 @@
+{
+  "extends": "ultra",
+  "globals": {
+    "log": false,
+    "handle": false,
+    "local": false,
+    "test": false
+  }
+}
